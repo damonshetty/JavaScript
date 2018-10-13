@@ -1,2 +1,2 @@
 # JavaScript
-JavaScript repository / Best practice coding techniques / JavaScript TDD
+JavaScript repository / Best practice coding techniques / JavaScript TDD / Test
